@@ -19,6 +19,8 @@ import About from "./pages/About";
 import Home from "./pages";
 import Fire from "./pages/Fire";
 import Maestro from "./pages/Maestro";
+import Footer from "./components/Footer";
+import Modal from "./components/Modal";
 
 function App() {
   const [isOpen, setIsOpen] = useState(false);
@@ -42,9 +44,11 @@ function App() {
         <Route path="/about" component={About} />
         <Route path="/fire" component={Fire} />
         <Route path="/maestro" component={Maestro} />
+        <Route path="/modal" component={Modal} />
       </Switch>
 
       <Redirect to="/"></Redirect>
+      <Footer />
     </>
   );
 }

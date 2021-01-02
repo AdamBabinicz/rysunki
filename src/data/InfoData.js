@@ -104,7 +104,7 @@ export const InfoDataEight = {
   paragraphTwo:
     "Z pośród rysunków, akwareki i pasteli, które wykonałem w ognisku, zapamiętałem najbardziej akwarelę przedstawiającą chłopca puszczającego latawca na łące. Ta praca wisiała w ognisku na ścianie wśród innych, wyróżnionych przez prof. Dobrowolskiego.",
   paragraphThree:
-    "W roku 1975 zdawałem na Akademię Sztuk Pięknych w Warszawie, ale bez powodzenia. Dwa lata poźniej próbowałem również dostać się do Państwowej Wyższej Szkoły Sztuk Plastycznych w Gdańsku. Dlaczego nie zostałem ”Janem Matejką” - malarzem o którym marzyłem w dzieciństwie? Prawdopodobnie dlatego, że interesowało mnie zbyt dużo innych rzeczy, zaś koleje losu potoczyły się w inntm kierunku.",
+    "W roku 1975 zdawałem na Akademię Sztuk Pięknych w Warszawie, ale bez powodzenia. Dwa lata poźniej próbowałem również dostać się do Państwowej Wyższej Szkoły Sztuk Plastycznych w Gdańsku. Dlaczego nie zostałem ”Janem Matejką” - malarzem o którym marzyłem w dzieciństwie? Prawdopodobnie dlatego, że interesowało mnie zbyt dużo innych rzeczy, zaś koleje losu potoczyły się w innym kierunku.",
   buttonLabel: "Zobacz więcej",
   image: ImageEight,
   reverse: true,
