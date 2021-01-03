@@ -11,7 +11,7 @@ export const SliderData = [
     path: "/homes",
     label: "View Home",
     image: ImageOne,
-    alt: "House",
+    alt: "Błonie",
   },
   {
     title: "Rzeźba",
@@ -19,7 +19,7 @@ export const SliderData = [
     path: "/homes",
     label: "View Home",
     image: ImageTwo,
-    alt: "House",
+    alt: "Święty przed Kościołem Garnizonowym w Radomiu",
   },
   {
     title: "Pejzaż Wieprz, Krzna",
@@ -27,7 +27,7 @@ export const SliderData = [
     path: "/homes",
     label: "View Home",
     image: ImageThree,
-    alt: "House",
+    alt: "Most nad kanałem i rzeką",
   },
   {
     title: "Pejzaż z nad Wisły",
@@ -35,7 +35,7 @@ export const SliderData = [
     path: "/homes",
     label: "View Home",
     image: ImageFour,
-    alt: "House",
+    alt: "Widok na most i Warszawę",
   },
   {
     title: "Studium postaci",
@@ -43,7 +43,7 @@ export const SliderData = [
     path: "/homes",
     label: "View Home",
     image: ImageFive,
-    alt: "House",
+    alt: "Babcia Julia",
   },
 ];
 
