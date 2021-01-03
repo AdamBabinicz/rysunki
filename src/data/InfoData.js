@@ -6,6 +6,7 @@ import ImageFive from "../images/13.jpg";
 import ImageSix from "../images/14.jpg";
 import ImageSeven from "../images/11.jpg";
 import ImageEight from "../images/radzy.jpg";
+import ImageNine from "../images/a.jpg";
 
 export const InfoData = {
   heading: "Państwowe Ognisko Plastyczne w Radomiu",
@@ -107,6 +108,18 @@ export const InfoDataEight = {
     "W roku 1975 zdawałem na Akademię Sztuk Pięknych w Warszawie, ale bez powodzenia. Dwa lata poźniej próbowałem również dostać się do Państwowej Wyższej Szkoły Sztuk Plastycznych w Gdańsku. Dlaczego nie zostałem ”Janem Matejką” - malarzem o którym marzyłem w dzieciństwie? Prawdopodobnie dlatego, że interesowało mnie zbyt dużo innych rzeczy, zaś koleje losu potoczyły się w innym kierunku.",
   buttonLabel: "Zobacz więcej",
   image: ImageEight,
+  reverse: true,
+  delay: 300,
+};
+
+export const InfoDataNine = {
+  heading: "Adam Gierczak",
+  paragraphOne:
+    "”Reprezentował tradycyjny, realistyczny warsztat, wzbogacony o doświadczenia francuskiego postimpresjonizmu i włoskiego klasycyzmu, które uwidaczniają się w elegancji kompozycji, zwłaszcza portretów. Obrazy artysty są zazwyczaj sygnowane, wraz z podaniem roku i miejsca powstania, nie sygnował natomiast prac nieukończonych.",
+  paragraphTwo:
+    "Malował przedstawicieli wszystkich warstw społecznych: „Chłop” czy „Palacz”, wizerunki aktorów: Stefana Jaracza, Zbyszko Sawana, Marii Malickiej, Mieczysława Frenkla, a także polityków: marszałka Józefa Piłsudskiego, prezydenta Ignacego Mościckiego, wojewody łódzkiego Aleksandra Hauke-Nowaka czy prezydenta Łodzi Aleksego Rżewskiego – powstałe w latach 30. XX w.” *(http://www.spotkania-z-zabytkami.pl/aktualnosci/1/730)",
+  buttonLabel: "Zobacz więcej",
+  image: ImageNine,
   reverse: true,
   delay: 300,
 };
