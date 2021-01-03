@@ -114,10 +114,8 @@ export const InfoDataEight = {
 
 export const InfoDataNine = {
   heading: "Adam Gierczak",
-  paragraphOne:
-    "”Reprezentował tradycyjny, realistyczny warsztat, wzbogacony o doświadczenia francuskiego postimpresjonizmu i włoskiego klasycyzmu, które uwidaczniają się w elegancji kompozycji, zwłaszcza portretów. Obrazy artysty są zazwyczaj sygnowane, wraz z podaniem roku i miejsca powstania, nie sygnował natomiast prac nieukończonych.",
-  paragraphTwo:
-    "Malował przedstawicieli wszystkich warstw społecznych: „Chłop” czy „Palacz”, wizerunki aktorów: Stefana Jaracza, Zbyszko Sawana, Marii Malickiej, Mieczysława Frenkla, a także polityków: marszałka Józefa Piłsudskiego, prezydenta Ignacego Mościckiego, wojewody łódzkiego Aleksandra Hauke-Nowaka czy prezydenta Łodzi Aleksego Rżewskiego – powstałe w latach 30. XX w.” *(http://www.spotkania-z-zabytkami.pl/aktualnosci/1/730)",
+  paragraphOne: "Zdjecie z legitymacji szkolnej wykonane w 1971 r.",
+  paragraphTwo: "puaro@vp.pl",
   buttonLabel: "Zobacz więcej",
   image: ImageNine,
   reverse: true,
