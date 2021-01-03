@@ -103,7 +103,7 @@ export const InfoDataEight = {
   paragraphOne:
     "Kurs dzieci i dzieci starszych prowadziła P. Irena Cichowska (1912 - 2000), osoba o wyjątkowej erudycji i wspaniałym kontakcie ze słuchaczami. Bardzo dobrze wspominam również z kursu młodzieżowego P. Danutę Radzymińską (1932 - 2015, na zdjęciu). Moją mentorką w latach 1974 - 1975 była również P. Krystyna Barańska (1917 - 2004).",
   paragraphTwo:
-    "Z pośród rysunków, akwareki i pasteli, które wykonałem w ognisku, zapamiętałem najbardziej akwarelę przedstawiającą chłopca puszczającego latawca na łące. Ta praca wisiała w ognisku na ścianie wśród innych, wyróżnionych przez prof. Dobrowolskiego.",
+    "Spośród rysunków, akwarel i pasteli, które wykonałem w ognisku, zapamiętałem najbardziej akwarelę przedstawiającą chłopca puszczającego latawca na łące. Ta praca wisiała w ognisku na ścianie wśród innych, wyróżnionych przez prof. Dobrowolskiego.",
   paragraphThree:
     "W roku 1975 zdawałem na Akademię Sztuk Pięknych w Warszawie, ale bez powodzenia. Dwa lata poźniej próbowałem również dostać się do Państwowej Wyższej Szkoły Sztuk Plastycznych w Gdańsku. Dlaczego nie zostałem ”Janem Matejką” - malarzem o którym marzyłem w dzieciństwie? Prawdopodobnie dlatego, że interesowało mnie zbyt dużo innych rzeczy, zaś koleje losu potoczyły się w innym kierunku.",
   buttonLabel: "Zobacz więcej",
