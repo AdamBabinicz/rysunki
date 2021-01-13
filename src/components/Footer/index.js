@@ -93,7 +93,7 @@ function Footer() {
         </FooterLinksContainer>
         <SocialMedia>
           <SocialMediaWrap>
-            <SocialLogo to="/" onClick={toggleHome}>
+            <SocialLogo onClick={toggleHome}>
               "jak nie zostałem Janem Matejką"
             </SocialLogo>
             <WebsiteRightsLink
