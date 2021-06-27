@@ -18,7 +18,7 @@ export const InfoData = {
   title:
     "Irena Maria Cichowska (ur. 13 sierpnia 1912 w Boksycach, zm. 18 listopada 2000 w Radomiu) – polska malarka i artysta plastyk.",
   p: "W 1938 ukończyła naukę w Miejskiej Szkole Sztuk Zdobniczych i Malarstwa w Warszawie i zamieszkała w Radomiu. Od 1945 należała do założonego przez Wacława Dobrowolskiego Towarzystwa Przyjaciół Sztuk Pięknych z którym wystawiała swoje prace. Tworzyła akwarele, przedstawiające motywy roślinne, martwą naturę, rzadziej krajobrazy i portrety. Była członkiem Związku Polskich Artystów Plastyków.",
-  em: "https://pl.wikipedia.org/wiki/Irena_Cichowska",
+  em: "https://pl.wikipedia.org",
   buttonLabel: "Czytaj więcej",
   image: ImageOne,
   reverse: false,
@@ -35,7 +35,7 @@ export const InfoDataTwo = {
     "W ognisku historię sztuki wykładała mgr Anna Apanowicz, która odegrała bardzo ważną rolę w dziejach muzealnictwa w Radomiu, w regionie i w rozwoju życia kulturalnego po 1945 r.",
   title:
     "Anna Apanowicz (17.01.1915 - 18.04.2010) - długoletnia dyrektorka radomskiego Muzeum Regionalnego, później noszącego nazwę Muzeum Okręgowego.",
-  p: "Rodowita radomianka po ukończeniu Gimnazjum i Liceum im. Marii Gajl w 1938 r. wyjechała do Warszawy, by studiować na Uniwersytecie Warszawskim. Wybuch drugiej wojny światowej pokrzyżował te plany. Trzeba było wcześnie wydorośleć. W 1939 r., już po rozpoczęciu działań wojennych, wyszła za mąż za wcześniej poznanego studenta Politechniki Warszawskiej Jerzego Bichniewicza, który brał czynny udział w wojnie obronnej, walczył pod Kockiem, a następnie przedostał się na Zachód. Trafił do oddziału cichociemnych, zrzucanych ze specjalną misją do Polski. W 1942 r., po locie w okolice Lublina, gdy nie udało się nawiązać kontaktu z planowym miejscem zrzutu, samolot wrócił do Anglii. Tam jednak nie dotarł, został zestrzelony nad Norwegią. Załoga zginęła. Wiele lat później Norwegowie uhonorowali pamięć lotników. Pomogli też pani Annie odnaleźć i odwiedzić grób męża, ale już w czasach wolnej Polski. Pojechała tam z Marcinem, młodszym synem z drugiego małżeństwa.",
+  p: "Rodowita radomianka po ukończeniu Gimnazjum i Liceum im. Marii Gajl w 1938 r. wyjechała do Warszawy, by studiować na Uniwersytecie Warszawskim. Wybuch drugiej wojny światowej pokrzyżował te plany. Trzeba było wcześnie wydorośleć. W 1939 r., już po rozpoczęciu działań wojennych, wyszła za mąż za wcześniej poznanego studenta Politechniki Warszawskiej Jerzego Bichniewicza, który brał czynny udział w wojnie obronnej, walczył pod Kockiem, a następnie przedostał się na Zachód.",
   em: "http://www.radom.pl/page/44,przeglad-mediow.html?date=2010-11-00&id=1602",
   buttonLabel: "Czytaj więcej",
   image: ImageTwo,
@@ -90,7 +90,7 @@ export const InfoDataFive = {
 export const InfoDataSix = {
   heading: "Artysta",
   paragraphOne:
-    "„Reprezentował tradycyjny, realistyczny warsztat, wzbogacony o doświadczenia francuskiego postimpresjonizmu i włoskiego klasycyzmu, które uwidaczniają się w elegancji kompozycji, zwłaszcza portretów. Obrazy artysty są zazwyczaj sygnowane, wraz z podaniem roku i miejsca powstania, nie sygnował natomiast prac nieukończonych.”",
+    "„Reprezentował tradycyjny, realistyczny warsztat, wzbogacony o doświadczenia francuskiego postimpresjonizmu i włoskiego klasycyzmu, które uwidaczniają się w elegancji kompozycji, zwłaszcza portretów. Obrazy artysty są zazwyczaj sygnowane, wraz z podaniem roku i miejsca powstania, nie sygnował natomiast prac nieukończonych.",
   paragraphTwo:
     "Malował przedstawicieli wszystkich warstw społecznych: „Chłop” czy „Palacz”, wizerunki aktorów: Stefana Jaracza, Zbyszko Sawana, Marii Malickiej, Mieczysława Frenkla, a także polityków: marszałka Józefa Piłsudskiego, prezydenta Ignacego Mościckiego, wojewody łódzkiego Aleksandra Hauke-Nowaka czy prezydenta Łodzi Aleksego Rżewskiego – powstałe w latach 30. XX w.” *(http://www.spotkania-z-zabytkami.pl/aktualnosci/1/730)",
   buttonLabel: "Zobacz więcej",
@@ -109,8 +109,8 @@ export const InfoDataSeven = {
     "W pomieszczeniach o pow. 245 m² znajdowały się pracownie plastyczne dla słuchaczy (od dziecka do wieku dorosłego) oraz mieszkanie profesora i jego żony.",
   title:
     "Rozmowa z Andrzejem Wajdą o tym, co ma wspólnego malarstwo z reżyserią oraz o pierwszym pudełku farb.",
-  p: "„Następnym ważnym wydarzeniem kierującym mnie w stronę sztuki było to, że w wieku 15. lat dostałem pudełko farb olejnych Karmańskiego od kogoś z przyjaciół mojej matki, co okazało się jednym z najcenniejszych prezentów mojego życia. I przeczytałem też Studium o Cézannie Czapskiego. Przez te dwie rzeczy od razu zbliżyłem się do prawdziwego malarstwa. Potem przez rok chodziłem do szkoły rysunku, w której nauczycielem był Wacław Dobrowolski. Nie był to specjalnie porywający artysta, ale udało mu się; Niemcy pozwolili mu przez rok prowadzić szkołę rysunku i ja przez ten rok uczyłem się tam rysować. Tam miałem pierwsze zajęcia z modelem, rysunek z natury i tak dalej.”",
-  em: "https://niezlasztuka.net/o-sztuce/rozmowa-z-andrzejem-wajda-o-tym-co-ma-wspolnego-malarstwo-z-rezyseria-o-indywidualnym-spojrzeniu-na-sztuke-oraz-o-pierwszym-pudelku-farb/",
+  p: "„Następnym ważnym wydarzeniem kierującym mnie w stronę sztuki było to, że w wieku 15. lat dostałem pudełko farb olejnych Karmańskiego od kogoś z przyjaciół mojej matki, co okazało się jednym z najcenniejszych prezentów mojego życia. I przeczytałem też Studium o Cézannie Czapskiego. Przez te dwie rzeczy od razu zbliżyłem się do prawdziwego malarstwa. Potem przez rok chodziłem do szkoły rysunku, w której nauczycielem był Wacław Dobrowolski. Nie był to specjalnie porywający artysta, ale udało mu się; ...”",
+  em: "https://niezlasztuka.net/o-sztuce",
   buttonLabel: "Czytaj więcej",
   image: ImageSeven,
   reverse: true,
@@ -126,8 +126,8 @@ export const InfoDataEight = {
   paragraphThree:
     "W roku 1975 zdawałem na Akademię Sztuk Pięknych w Warszawie, ale bez powodzenia. Dwa lata poźniej próbowałem również dostać się do Państwowej Wyższej Szkoły Sztuk Plastycznych w Gdańsku. Dlaczego nie zostałem ”Janem Matejką” - malarzem o którym marzyłem w dzieciństwie? Prawdopodobnie dlatego, że interesowało mnie zbyt dużo innych rzeczy, zaś koleje losu potoczyły się w innym kierunku.",
   title: "Nestorka radomskich malarek",
-  p: "Danuta Radzymińska-Nowakowska urodziła się w 1932 r. w Różannie-Koszarach woj. warszawskie. Studiowala w latach 1953-1954 na ASP w Warszawie, uzyskując , specjalizację z tkaniny artystycznej. Tworzyła w zakresie malarstwa sztalugowego i rysunku. W latch 1966-1977 była plastykiem-projektantem Radoskóru, od 1969 nauczycielem w Państwowym Ognisku Plastycznym im. J. Malczewskiego w Radomiu. Aktywnie uczestniczyła w wystawach środowiskowych okręgowych i ogólnopolskich. M.in. były to wystawy: 1974 - Retrospektywna Wystawa Plastyki Radomskiej 1945-74 Radom Muzeum, 1977, 1981-1984 - Ogólnopolski Salon Zimowy Plastyki, Radom, 1982 - Jubileuszowa Wystawa Plastyki Okręgu Kieleckiego ZPAP, Kielce, 1987 - Malarstwo, Rysunek i Grafika Środowiska Radomskiego Elbląg. Jej osiągnięcia : 1972 - Ogólnopolska Wystawa Plastyki Kobieta w sztuce, Radom, nagroda, 1973 - Ogólnopolski Salon Zimowy Plastyki, Radom, nagroda, 1972,1979, 1981-1983 nagrody Wydziału Kultury i Sztuki w Radomiu, 1985 - zespołowa II stopnia im. J. Kochanowskiego w Radomiu. Otrzymała też liczne nagrody w dziedzinie wzornictwa przemysłowego.",
-  em: "https://echodnia.eu/radomskie/zmarla-danuta-radzyminska-nestorka-radomskich-malarek/ar/8809487",
+  p: "Danuta Radzymińska-Nowakowska urodziła się w 1932 r. w Różannie-Koszarach woj. warszawskie. Studiowala w latach 1953-1954 na ASP w Warszawie, uzyskując , specjalizację z tkaniny artystycznej. Tworzyła w zakresie malarstwa sztalugowego i rysunku. W latch 1966-1977 była plastykiem-projektantem Radoskóru, od 1969 nauczycielem w Państwowym Ognisku Plastycznym im. J. Malczewskiego w Radomiu. Aktywnie uczestniczyła w wystawach środowiskowych okręgowych i ogólnopolskich.",
+  em: "https://echodnia.eu/radomskie",
   buttonLabel: "Czytaj więcej",
   image: ImageEight,
   reverse: true,
