@@ -36,7 +36,7 @@ export const InfoDataTwo = {
   title:
     "Anna Apanowicz (17.01.1915 - 18.04.2010) - długoletnia dyrektorka radomskiego Muzeum Regionalnego, później noszącego nazwę Muzeum Okręgowego.",
   p: "Rodowita radomianka po ukończeniu Gimnazjum i Liceum im. Marii Gajl w 1938 r. wyjechała do Warszawy, by studiować na Uniwersytecie Warszawskim. Wybuch drugiej wojny światowej pokrzyżował te plany. Trzeba było wcześnie wydorośleć. W 1939 r., już po rozpoczęciu działań wojennych, wyszła za mąż za wcześniej poznanego studenta Politechniki Warszawskiej Jerzego Bichniewicza, który brał czynny udział w wojnie obronnej, walczył pod Kockiem, a następnie przedostał się na Zachód.",
-  em: "http://www.radom.pl/page/44,przeglad-mediow.html?date=2010-11-00&id=1602",
+  em: "http://www.radom.pl",
   buttonLabel: "Czytaj więcej",
   image: ImageTwo,
   reverse: true,
