@@ -49,10 +49,10 @@ export const InfoDataThree = {
     "Mimo, iż nie zostałem zawodowym artystą - malarzem, okres edukacji w ognisku ukształtował moją wrażliwość na piękno i dobro w całym życiu.",
   paragraphTwo:
     "Ognisko dla mnie to nie była jedynie szkoła rysunku i malarstwa, to było miejsce święte, gdzie obcowałem ze wspaniałymi ludźmi, którzy przekazali mi najważniejsze zasady humanizmu. Tu chłonąłem kulturę i cywilizację europejską w czasach późnego Gomułki i wczesnego Gierka.",
-  title: "",
+  title: "Budynek Państwowego Ogniska Plastycznego w Radomiu",
   img: ImageTen,
   p: "",
-  em: "",
+  em: "www.radom.city",
   buttonLabel: "Zobacz więcej",
   paragraphThree:
     "Dwa spośród zaświadczeń o ukończeniu kursu asygnował prof. Dobrowolski. Niestety, po wakacjach, nowy rok szkolny 1969/1970 w ognisku, rozpoczął się smutną wiadomością, że profesor zmarł 2 lipca.",

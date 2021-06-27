@@ -36,7 +36,6 @@ export const PopupInner = styled.div`
     max-width: 90%;
 
     img {
-      width: 460px;
       max-width: 100%;
     }
   }
