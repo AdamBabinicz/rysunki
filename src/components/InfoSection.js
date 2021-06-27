@@ -100,7 +100,7 @@ const InfoSection = ({
         <Popup trigger={buttonPopup} setTrigger={setButtonPopup}>
           <h3>{title}</h3>
           <br />
-          <img src={img} />
+          <img src={img} /> <br />
           <p>{p}</p>
           <br />
           <em>{em}</em>

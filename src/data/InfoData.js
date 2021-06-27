@@ -8,6 +8,9 @@ import ImageSeven from "../images/11.jpg";
 import ImageEight from "../images/radzy.jpg";
 import ImageNine from "../images/a.jpg";
 import ImageTen from "../images/10.jpg";
+import ImageEleven from "../images/15.jpg";
+import ImageTwelve from "../images/16.jpg";
+import ImageThirteen from "../images/22.jpg";
 
 export const InfoData = {
   heading: "Państwowe Ognisko Plastyczne w Radomiu",
@@ -35,7 +38,7 @@ export const InfoDataTwo = {
     "W ognisku historię sztuki wykładała mgr Anna Apanowicz, która odegrała bardzo ważną rolę w dziejach muzealnictwa w Radomiu, w regionie i w rozwoju życia kulturalnego po 1945 r.",
   title:
     "Anna Apanowicz (17.01.1915 - 18.04.2010) - długoletnia dyrektorka radomskiego Muzeum Regionalnego, później noszącego nazwę Muzeum Okręgowego.",
-  p: "Rodowita radomianka po ukończeniu Gimnazjum i Liceum im. Marii Gajl w 1938 r. wyjechała do Warszawy, by studiować na Uniwersytecie Warszawskim. Wybuch drugiej wojny światowej pokrzyżował te plany. Trzeba było wcześnie wydorośleć. W 1939 r., już po rozpoczęciu działań wojennych, wyszła za mąż za wcześniej poznanego studenta Politechniki Warszawskiej Jerzego Bichniewicza, który brał czynny udział w wojnie obronnej, walczył pod Kockiem, a następnie przedostał się na Zachód.",
+  p: "Rodowita radomianka po ukończeniu Gimnazjum i Liceum im. Marii Gajl w 1938 r. wyjechała do Warszawy, by studiować na Uniwersytecie Warszawskim. Wybuch drugiej wojny światowej pokrzyżował te plany. Trzeba było wcześnie wydorośleć. W 1939 r., już po rozpoczęciu działań wojennych, wyszła za mąż za wcześniej poznanego studenta Politechniki Warszawskiej Jerzego Bichniewicza, który brał czynny udział w wojnie obronnej, walczył pod Kockiem, a następnie przedostał się na Zachód. ...",
   em: "http://www.radom.pl",
   buttonLabel: "Czytaj więcej",
   image: ImageTwo,
@@ -49,9 +52,9 @@ export const InfoDataThree = {
     "Mimo, iż nie zostałem zawodowym artystą - malarzem, okres edukacji w ognisku ukształtował moją wrażliwość na piękno i dobro w całym życiu.",
   paragraphTwo:
     "Ognisko dla mnie to nie była jedynie szkoła rysunku i malarstwa, to było miejsce święte, gdzie obcowałem ze wspaniałymi ludźmi, którzy przekazali mi najważniejsze zasady humanizmu. Tu chłonąłem kulturę i cywilizację europejską w czasach późnego Gomułki i wczesnego Gierka.",
-  title: "Budynek Państwowego Ogniska Plastycznego w Radomiu",
+  title: "Budynek Państwowego Ogniska Plastycznego",
   img: ImageTen,
-  p: "",
+  p: "Radom, ul. Sienkiewicza 12",
   em: "www.radom.city",
   buttonLabel: "Zobacz więcej",
   paragraphThree:
@@ -69,6 +72,10 @@ export const InfoDataFour = {
     "W 1927 r., po kilkumiesięcznej podróży artystycznej do Francji i Włoch (skąd przywiózł widoki Rzymu, Mediolanu, Florencji i Capri – podobno realizowane także w grafikach, dziś zaginionych), zamieszkał w Łodzi, gdzie utrzymywał się przede wszystkim z portretowania łódzkiej inteligencji.” *(http://www.spotkania-z-zabytkami.pl/aktualnosci/1/730)",
   paragraphThree:
     "Szkoła Plastyczna prowadzona przez Wacława Dobrowolskiego była pierowtnie szkołą prywatną, jednym z jej pierwszych uczniów był światowej sławy reżyser Andrzej Wajda. Szkoła otrzymywała później wsparcie państwa, przez wiele lat było to Państwowe Ognisko Plastyczne, później przekształcona w Szkołę Plastyczną im. Jacka Malczewskiego.",
+  title: "Autoportret",
+  img: ImageEleven,
+  p: "1930",
+  em: "",
   buttonLabel: "Zobacz więcej",
   image: ImageFour,
   reverse: true,
@@ -81,6 +88,10 @@ export const InfoDataFive = {
     "„Wacław Dobrowolski uwieczniał także widoki Inowłodza i Łowicza, gdzie przebywał w 1937 r. na plenerze z uczniami swojej Szkoły Sztuk Pięknych i Przemysłu Artystycznego im. Cypriana Kamila Norwida. Po wojnie malował portrety we wnętrzach Muzeum w Nieborowie i Arkadii (bywał w tamtejszym domu pracy twórczej w latach 50. XX w.) oraz tworzył pejzaże Radomia, gdzie mieszkał do 1969 r.",
   paragraphTwo:
     "Obok obrazów olejnych Wacław Dobrowolski realizował także rysunki ołówkiem i węglem, pastele, akwarele, grafiki – głównie portrety i pejzaże, podobno także sceny rodzajowe i batalistyczne (zaginione).” *(http://www.spotkania-z-zabytkami.pl/aktualnosci/1/730)",
+  title: "Krzyk z rynsztoka",
+  img: ImageTwelve,
+  p: "1918 - 1939",
+  em: "https://audiovis.nac.gov.pl/obraz/119960",
   buttonLabel: "Zobacz więcej",
   image: ImageFive,
   reverse: true,
@@ -93,6 +104,10 @@ export const InfoDataSix = {
     "„Reprezentował tradycyjny, realistyczny warsztat, wzbogacony o doświadczenia francuskiego postimpresjonizmu i włoskiego klasycyzmu, które uwidaczniają się w elegancji kompozycji, zwłaszcza portretów. Obrazy artysty są zazwyczaj sygnowane, wraz z podaniem roku i miejsca powstania, nie sygnował natomiast prac nieukończonych.",
   paragraphTwo:
     "Malował przedstawicieli wszystkich warstw społecznych: „Chłop” czy „Palacz”, wizerunki aktorów: Stefana Jaracza, Zbyszko Sawana, Marii Malickiej, Mieczysława Frenkla, a także polityków: marszałka Józefa Piłsudskiego, prezydenta Ignacego Mościckiego, wojewody łódzkiego Aleksandra Hauke-Nowaka czy prezydenta Łodzi Aleksego Rżewskiego – powstałe w latach 30. XX w.” *(http://www.spotkania-z-zabytkami.pl/aktualnosci/1/730)",
+  title: "Snopki",
+  img: ImageThirteen,
+  p: "1958",
+  em: "https://www.sda.pl/aukcja/obiekty",
   buttonLabel: "Zobacz więcej",
   image: ImageSix,
   reverse: true,
