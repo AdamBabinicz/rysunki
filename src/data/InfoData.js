@@ -75,7 +75,7 @@ export const InfoDataFive = {
 export const InfoDataSix = {
   heading: "Artysta",
   paragraphOne:
-    "”Reprezentował tradycyjny, realistyczny warsztat, wzbogacony o doświadczenia francuskiego postimpresjonizmu i włoskiego klasycyzmu, które uwidaczniają się w elegancji kompozycji, zwłaszcza portretów. Obrazy artysty są zazwyczaj sygnowane, wraz z podaniem roku i miejsca powstania, nie sygnował natomiast prac nieukończonych.",
+    "„Reprezentował tradycyjny, realistyczny warsztat, wzbogacony o doświadczenia francuskiego postimpresjonizmu i włoskiego klasycyzmu, które uwidaczniają się w elegancji kompozycji, zwłaszcza portretów. Obrazy artysty są zazwyczaj sygnowane, wraz z podaniem roku i miejsca powstania, nie sygnował natomiast prac nieukończonych.”",
   paragraphTwo:
     "Malował przedstawicieli wszystkich warstw społecznych: „Chłop” czy „Palacz”, wizerunki aktorów: Stefana Jaracza, Zbyszko Sawana, Marii Malickiej, Mieczysława Frenkla, a także polityków: marszałka Józefa Piłsudskiego, prezydenta Ignacego Mościckiego, wojewody łódzkiego Aleksandra Hauke-Nowaka czy prezydenta Łodzi Aleksego Rżewskiego – powstałe w latach 30. XX w.” *(http://www.spotkania-z-zabytkami.pl/aktualnosci/1/730)",
   buttonLabel: "Zobacz więcej",
@@ -92,7 +92,11 @@ export const InfoDataSeven = {
     "Ognisko mieściło się na drugim piętrze Kamienicy Glogierów, wybudowanej w 2014 r. w stylu eklektycznym z wpływami modernizmu. Tutaj w swoim mieszkaniu profesor Wacław Dobrowolski założył w 1945 r. prywatną Wolną Szkołę Rysunku, Malarstwa i Rzeźby. Niedługo potem szkołę przekształcono w Społeczne Ognisko Kultury Plastycznej, a w 1949 – w Państwowe Ognisko Plastyczne. W latach dziewięćdziesiątych w domu przy ul. Sienkiewicza 12 mieściła się Miejska Pracownia Urbanistyczna.",
   paragraphThree:
     "W pomieszczeniach o pow. 245 m² znajdowały się pracownie plastyczne dla słuchaczy (od dziecka do wieku dorosłego) oraz mieszkanie profesora i jego żony.",
-  buttonLabel: "Zobacz więcej",
+  title:
+    "Rozmowa z Andrzejem Wajdą o tym, co ma wspólnego malarstwo z reżyserią oraz o pierwszym pudełku farb.",
+  p: "„Następnym ważnym wydarzeniem kierującym mnie w stronę sztuki było to, że w wieku 15. lat dostałem pudełko farb olejnych Karmańskiego od kogoś z przyjaciół mojej matki, co okazało się jednym z najcenniejszych prezentów mojego życia. I przeczytałem też Studium o Cézannie Czapskiego. Przez te dwie rzeczy od razu zbliżyłem się do prawdziwego malarstwa. Potem przez rok chodziłem do szkoły rysunku, w której nauczycielem był Wacław Dobrowolski. Nie był to specjalnie porywający artysta, ale udało mu się; Niemcy pozwolili mu przez rok prowadzić szkołę rysunku i ja przez ten rok uczyłem się tam rysować. Tam miałem pierwsze zajęcia z modelem, rysunek z natury i tak dalej.”",
+  em: "https://niezlasztuka.net/o-sztuce/rozmowa-z-andrzejem-wajda-o-tym-co-ma-wspolnego-malarstwo-z-rezyseria-o-indywidualnym-spojrzeniu-na-sztuke-oraz-o-pierwszym-pudelku-farb/",
+  buttonLabel: "Czytaj więcej",
   image: ImageSeven,
   reverse: true,
   delay: 300,
@@ -106,7 +110,10 @@ export const InfoDataEight = {
     "Spośród rysunków, akwarel i pasteli, które wykonałem w ognisku, zapamiętałem najbardziej akwarelę przedstawiającą chłopca puszczającego latawca na łące. Ta praca wisiała w ognisku na ścianie wśród innych, wyróżnionych przez prof. Dobrowolskiego.",
   paragraphThree:
     "W roku 1975 zdawałem na Akademię Sztuk Pięknych w Warszawie, ale bez powodzenia. Dwa lata poźniej próbowałem również dostać się do Państwowej Wyższej Szkoły Sztuk Plastycznych w Gdańsku. Dlaczego nie zostałem ”Janem Matejką” - malarzem o którym marzyłem w dzieciństwie? Prawdopodobnie dlatego, że interesowało mnie zbyt dużo innych rzeczy, zaś koleje losu potoczyły się w innym kierunku.",
-  buttonLabel: "Zobacz więcej",
+  title: "Nestorka radomskich malarek",
+  p: "Danuta Radzymińska-Nowakowska urodziła się w 1932 r. w Różannie-Koszarach woj. warszawskie. Studiowala w latach 1953-1954 na ASP w Warszawie, uzyskując , specjalizację z tkaniny artystycznej. Tworzyła w zakresie malarstwa sztalugowego i rysunku. W latch 1966-1977 była plastykiem-projektantem Radoskóru, od 1969 nauczycielem w Państwowym Ognisku Plastycznym im. J. Malczewskiego w Radomiu. Aktywnie uczestniczyła w wystawach środowiskowych okręgowych i ogólnopolskich. M.in. były to wystawy: 1974 - Retrospektywna Wystawa Plastyki Radomskiej 1945-74 Radom Muzeum, 1977, 1981-1984 - Ogólnopolski Salon Zimowy Plastyki, Radom, 1982 - Jubileuszowa Wystawa Plastyki Okręgu Kieleckiego ZPAP, Kielce, 1987 - Malarstwo, Rysunek i Grafika Środowiska Radomskiego Elbląg. Jej osiągnięcia : 1972 - Ogólnopolska Wystawa Plastyki Kobieta w sztuce, Radom, nagroda, 1973 - Ogólnopolski Salon Zimowy Plastyki, Radom, nagroda, 1972,1979, 1981-1983 nagrody Wydziału Kultury i Sztuki w Radomiu, 1985 - zespołowa II stopnia im. J. Kochanowskiego w Radomiu. Otrzymała też liczne nagrody w dziedzinie wzornictwa przemysłowego.",
+  em: "https://echodnia.eu/radomskie/zmarla-danuta-radzyminska-nestorka-radomskich-malarek/ar/8809487",
+  buttonLabel: "Czytaj więcej",
   image: ImageEight,
   reverse: true,
   delay: 300,

@@ -1,6 +1,7 @@
-import React from "react";
+import React, { useState } from "react";
 import styled from "styled-components";
 import { Button } from "./Button";
+import Popup from "./Popup";
 
 const Section = styled.section`
   width: 100%;
@@ -77,7 +78,12 @@ const InfoSection = ({
   buttonLabel,
   reverse,
   image,
+  title,
+  p,
+  em,
 }) => {
+  const [buttonPopup, setButtonPopup] = useState(false);
+
   return (
     <Section>
       <Container>
@@ -86,10 +92,17 @@ const InfoSection = ({
           <p>{paragraphOne}</p>
           <p>{paragraphTwo}</p>
           <p>{paragraphThree}</p>
-          <Button to="/" primary={true}>
+          <Button onClick={() => setButtonPopup(true)} primary={true}>
             {buttonLabel}
           </Button>
         </ColumnLeft>
+        <Popup trigger={buttonPopup} setTrigger={setButtonPopup}>
+          <h3>{title}</h3>
+          <br />
+          <p>{p}</p>
+          <br />
+          <em>{em}</em>
+        </Popup>
         <ColumnRight reverse={reverse}>
           <img src={image} alt="..." />
         </ColumnRight>
