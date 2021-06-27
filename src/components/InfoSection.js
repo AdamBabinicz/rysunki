@@ -81,6 +81,7 @@ const InfoSection = ({
   title,
   p,
   em,
+  img,
 }) => {
   const [buttonPopup, setButtonPopup] = useState(false);
 
@@ -99,6 +100,7 @@ const InfoSection = ({
         <Popup trigger={buttonPopup} setTrigger={setButtonPopup}>
           <h3>{title}</h3>
           <br />
+          <img src={img} />
           <p>{p}</p>
           <br />
           <em>{em}</em>

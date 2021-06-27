@@ -1,5 +1,5 @@
 import ImageOne from "../images/7.jpg";
-import ImageTwo from "../images/9.jpg";
+import ImageTwo from "../images/apan.jpg";
 import ImageThree from "../images/8.jpg";
 import ImageFour from "../images/12.jpg";
 import ImageFive from "../images/13.jpg";
@@ -7,6 +7,7 @@ import ImageSix from "../images/14.jpg";
 import ImageSeven from "../images/11.jpg";
 import ImageEight from "../images/radzy.jpg";
 import ImageNine from "../images/a.jpg";
+import ImageTen from "../images/10.jpg";
 
 export const InfoData = {
   heading: "Państwowe Ognisko Plastyczne w Radomiu",
@@ -14,7 +15,11 @@ export const InfoData = {
     "Na zdjęciu widać jedynie głowę prof. Wacława Dobrowolskiego - założyciela placówki oraz późniejszą dyrektor P. Irenę Cichowską. Do ogniska uczęszczałem nieprzerwanie od 1967 r. do 1971 r. i później w klasie maturalnej. Egzamin rekrutacyjny zdawałem przed samym prof. Dobrowolskim. Narysowałem wówczas ołówkiem bitwę pod Grunwaldem, Matejki. Profesor bardzo się zdziwił i przyjął mnie na kurs dziecięcy.",
 
   paragraphTwo: "",
-  buttonLabel: "Zobacz więcej",
+  title:
+    "Irena Maria Cichowska (ur. 13 sierpnia 1912 w Boksycach, zm. 18 listopada 2000 w Radomiu) – polska malarka i artysta plastyk.",
+  p: "W 1938 ukończyła naukę w Miejskiej Szkole Sztuk Zdobniczych i Malarstwa w Warszawie i zamieszkała w Radomiu. Od 1945 należała do założonego przez Wacława Dobrowolskiego Towarzystwa Przyjaciół Sztuk Pięknych z którym wystawiała swoje prace. Tworzyła akwarele, przedstawiające motywy roślinne, martwą naturę, rzadziej krajobrazy i portrety. Była członkiem Związku Polskich Artystów Plastyków.",
+  em: "https://pl.wikipedia.org/wiki/Irena_Cichowska",
+  buttonLabel: "Czytaj więcej",
   image: ImageOne,
   reverse: false,
   delay: 100,
@@ -26,7 +31,13 @@ export const InfoDataTwo = {
     "Prof. Krystyna Barańska twierdziła, że ukończenie pełnego kursu ogniska plastycznego, dawało w latach 50-tych przepustkę na każdą uczelnię sztuk pięknych.",
   paragraphTwo:
     "Renomę tę zawdzięczało ognisko prof. Dobrowolskiemu, który był wybitnym malarzem i mistrzem dla wielu pokoleń wychowanków. Profesor Dobrowolski był człowiekiem światowym, aktywnym na polu sztuki i szeroko rozumianej kultury. Inicjował szereg działań, współtworzył, organizował życie kulturalne i wyłapywał talenty.",
-  buttonLabel: "Zobacz więcej",
+  paragraphThree:
+    "W ognisku historię sztuki wykładała mgr Anna Apanowicz, która odegrała bardzo ważną rolę w dziejach muzealnictwa w Radomiu, w regionie i w rozwoju życia kulturalnego po 1945 r.",
+  title:
+    "Anna Apanowicz (17.01.1915 - 18.04.2010) - długoletnia dyrektorka radomskiego Muzeum Regionalnego, później noszącego nazwę Muzeum Okręgowego.",
+  p: "Rodowita radomianka po ukończeniu Gimnazjum i Liceum im. Marii Gajl w 1938 r. wyjechała do Warszawy, by studiować na Uniwersytecie Warszawskim. Wybuch drugiej wojny światowej pokrzyżował te plany. Trzeba było wcześnie wydorośleć. W 1939 r., już po rozpoczęciu działań wojennych, wyszła za mąż za wcześniej poznanego studenta Politechniki Warszawskiej Jerzego Bichniewicza, który brał czynny udział w wojnie obronnej, walczył pod Kockiem, a następnie przedostał się na Zachód. Trafił do oddziału cichociemnych, zrzucanych ze specjalną misją do Polski. W 1942 r., po locie w okolice Lublina, gdy nie udało się nawiązać kontaktu z planowym miejscem zrzutu, samolot wrócił do Anglii. Tam jednak nie dotarł, został zestrzelony nad Norwegią. Załoga zginęła. Wiele lat później Norwegowie uhonorowali pamięć lotników. Pomogli też pani Annie odnaleźć i odwiedzić grób męża, ale już w czasach wolnej Polski. Pojechała tam z Marcinem, młodszym synem z drugiego małżeństwa.",
+  em: "http://www.radom.pl/page/44,przeglad-mediow.html?date=2010-11-00&id=1602",
+  buttonLabel: "Czytaj więcej",
   image: ImageTwo,
   reverse: true,
   delay: 300,
@@ -38,6 +49,10 @@ export const InfoDataThree = {
     "Mimo, iż nie zostałem zawodowym artystą - malarzem, okres edukacji w ognisku ukształtował moją wrażliwość na piękno i dobro w całym życiu.",
   paragraphTwo:
     "Ognisko dla mnie to nie była jedynie szkoła rysunku i malarstwa, to było miejsce święte, gdzie obcowałem ze wspaniałymi ludźmi, którzy przekazali mi najważniejsze zasady humanizmu. Tu chłonąłem kulturę i cywilizację europejską w czasach późnego Gomułki i wczesnego Gierka.",
+  title: "",
+  img: ImageTen,
+  p: "",
+  em: "",
   buttonLabel: "Zobacz więcej",
   paragraphThree:
     "Dwa spośród zaświadczeń o ukończeniu kursu asygnował prof. Dobrowolski. Niestety, po wakacjach, nowy rok szkolny 1969/1970 w ognisku, rozpoczął się smutną wiadomością, że profesor zmarł 2 lipca.",
@@ -49,7 +64,7 @@ export const InfoDataThree = {
 export const InfoDataFour = {
   heading: "Mistrz",
   paragraphOne:
-    "”Wacław Dobrowolski (1890-1969) to pochodzący z Kresów pedagog, publicysta i społecznik, a przy tym malarz i rysownik. Urodzony w Janówce na Ukrainie, uczył się najpierw w Szkole Sztuk Pięknych w Kijowie, a w 1912 r. rozpoczął studia w Akademii Sztuk Pięknych w Sankt-Petersburgu, przerwane wybuchem pierwszej wojny światowej. Ukończył je i uzyskał dyplom artysty malarza w 1924 r., już w Akademii leningradzkiej.",
+    "„Wacław Dobrowolski (1890-1969) to pochodzący z Kresów pedagog, publicysta i społecznik, a przy tym malarz i rysownik. Urodzony w Janówce na Ukrainie, uczył się najpierw w Szkole Sztuk Pięknych w Kijowie, a w 1912 r. rozpoczął studia w Akademii Sztuk Pięknych w Sankt-Petersburgu, przerwane wybuchem pierwszej wojny światowej. Ukończył je i uzyskał dyplom artysty malarza w 1924 r., już w Akademii leningradzkiej.",
   paragraphTwo:
     "W 1927 r., po kilkumiesięcznej podróży artystycznej do Francji i Włoch (skąd przywiózł widoki Rzymu, Mediolanu, Florencji i Capri – podobno realizowane także w grafikach, dziś zaginionych), zamieszkał w Łodzi, gdzie utrzymywał się przede wszystkim z portretowania łódzkiej inteligencji.” *(http://www.spotkania-z-zabytkami.pl/aktualnosci/1/730)",
   paragraphThree:
@@ -63,7 +78,7 @@ export const InfoDataFour = {
 export const InfoDataFive = {
   heading: "Malarz",
   paragraphOne:
-    "”Wacław Dobrowolski uwieczniał także widoki Inowłodza i Łowicza, gdzie przebywał w 1937 r. na plenerze z uczniami swojej Szkoły Sztuk Pięknych i Przemysłu Artystycznego im. Cypriana Kamila Norwida. Po wojnie malował portrety we wnętrzach Muzeum w Nieborowie i Arkadii (bywał w tamtejszym domu pracy twórczej w latach 50. XX w.) oraz tworzył pejzaże Radomia, gdzie mieszkał do 1969 r.",
+    "„Wacław Dobrowolski uwieczniał także widoki Inowłodza i Łowicza, gdzie przebywał w 1937 r. na plenerze z uczniami swojej Szkoły Sztuk Pięknych i Przemysłu Artystycznego im. Cypriana Kamila Norwida. Po wojnie malował portrety we wnętrzach Muzeum w Nieborowie i Arkadii (bywał w tamtejszym domu pracy twórczej w latach 50. XX w.) oraz tworzył pejzaże Radomia, gdzie mieszkał do 1969 r.",
   paragraphTwo:
     "Obok obrazów olejnych Wacław Dobrowolski realizował także rysunki ołówkiem i węglem, pastele, akwarele, grafiki – głównie portrety i pejzaże, podobno także sceny rodzajowe i batalistyczne (zaginione).” *(http://www.spotkania-z-zabytkami.pl/aktualnosci/1/730)",
   buttonLabel: "Zobacz więcej",
