@@ -11,6 +11,7 @@ import ImageTen from "../images/10.jpg";
 import ImageEleven from "../images/15.jpg";
 import ImageTwelve from "../images/16.jpg";
 import ImageThirteen from "../images/22.jpg";
+import ImageFourteen from "../images/23.jpg";
 
 export const InfoData = {
   heading: "Państwowe Ognisko Plastyczne w Radomiu",
@@ -153,6 +154,10 @@ export const InfoDataNine = {
   heading: "Adam Gierczak",
   paragraphOne: "Zdjecie z legitymacji szkolnej wykonane w 1971 r.",
   paragraphTwo: "puaro@vp.pl",
+  title: "Zdjęcie z czasów maturalnych",
+  img: ImageFourteen,
+  p: "1975",
+  em: "",
   buttonLabel: "Zobacz więcej",
   image: ImageNine,
   reverse: true,
