@@ -157,7 +157,7 @@ export const InfoDataNine = {
   title: "Zdjęcie z czasów maturalnych",
   img: ImageFourteen,
   p: "1975",
-  em: "",
+  em: "w okresie liceum jedynie w czwartej klasie uczęszczałem do ogniska",
   buttonLabel: "Zobacz więcej",
   image: ImageNine,
   reverse: true,
