@@ -3,6 +3,8 @@ import ImageTwo from "../images/2.jpg";
 import ImageThree from "../images/3.jpg";
 import ImageFour from "../images/4.jpg";
 import ImageFive from "../images/babcia-julia.jpg";
+import ImageSix from "../images/17.jpg";
+import ImageSeven from "../images/24.jpg";
 
 export const SliderData = [
   {
@@ -44,6 +46,22 @@ export const SliderData = [
     label: "View Home",
     image: ImageFive,
     alt: "Babcia Julia",
+  },
+  {
+    title: "Błonie - pejzaż",
+    price: "akwarela",
+    path: "/homes",
+    label: "View Home",
+    image: ImageSix,
+    alt: "Błonie w Trawnikach",
+  },
+  {
+    title: "Chałupa wiejska",
+    price: "akwarela",
+    path: "/homes",
+    label: "View Home",
+    image: ImageSeven,
+    alt: "Chata z drzewami",
   },
 ];
 
